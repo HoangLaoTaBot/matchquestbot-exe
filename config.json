@@ -1,0 +1,18 @@
+{
+    "AUTO_TASK" : true,
+    "AUTO_PLAY_GAME" : true,
+
+    "AUTO_GET_NEW_QUERY_ID": true,
+    "AUTO_WRITE_ERROR": true,
+    "AUTO_SEND_ERROR_TELEGRAM": true,
+    "AUTO_STOP_PROCESS": false,
+    "IS_CHECK_QUERY_ID": false,
+    "NUMBER_TRY_REQUEST": 3,
+    "THREAD": 10,
+    "IS_SLEEP": 27500,
+    "BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_NAME_GAME": "Match Quest",
+    "ACCOUNT": "account.json",
+    "QUERY_ID": "query_id.json"
+}
