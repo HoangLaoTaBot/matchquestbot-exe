@@ -14,5 +14,3 @@
 | BOT_TOKEN |                      | Token của bot telegram channel                                        |
 | BOT_CHANNEL_ID |                      | ID của telegram channel                                               |
 | BOT_NAME_GAME | Match Quest          | Tên game                                                              |
-| ACCOUNT | account.json         | Tên đường dẫn file tài khoản                                          |
-| QUERY_ID | query_id.json        | Tên đường dẫn file query_id                                           |
